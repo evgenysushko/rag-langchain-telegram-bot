@@ -1,0 +1,6 @@
+.env
+.chroma
+.ipynb_checkpoints
+*.ipynb
+chroma
+text
